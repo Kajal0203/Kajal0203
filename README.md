@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kajal,
-- a passionate learner aspiring to become a data scientist.
-- Here, I document my journey as I dekve into the exciting world of data science.
+  a passionate learner aspiring to become a data scientist.
+  Here, I document my journey as I dekve into the exciting world of data science.
 
 - How to reach me kajalkumari231997@gmail.com
 
